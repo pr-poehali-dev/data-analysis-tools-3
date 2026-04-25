@@ -35,7 +35,12 @@ export default function Index() {
             </p>
           </div>
           <div className="col-span-12 md:col-span-5 flex items-center justify-center">
-            <div className="relative w-full aspect-square bg-red-600">
+            <div className="relative w-full aspect-square">
+              <img
+                src="https://cdn.poehali.dev/projects/26d8b71c-e3e9-4716-87fc-e36ab7d9f3c4/bucket/a3b4fb33-0a0c-4e78-921a-4d858ac7ab58.jpg"
+                alt="Фольманн — логотип"
+                className="w-full h-full object-cover"
+              />
               <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-black"></div>
             </div>
           </div>
