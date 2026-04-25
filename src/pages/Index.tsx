@@ -25,8 +25,10 @@ export default function Index() {
       <section className="pt-32 pb-20 px-4 md:px-8 container mx-auto">
         <div className="grid grid-cols-12 gap-4">
           <div className="col-span-12 md:col-span-7 mb-8 md:mb-0">
-            <h1 className="text-3xl md:text-5xl font-bold tracking-tighter leading-tight mb-6">
-              ПРОИЗВОДИТЕЛЬ, СПЕЦИАЛИЗИРУЮЩИЙСЯ НА ВЫПУСКЕ ИННОВАЦИОННОЙ ХИМИЧЕСКОЙ ПРОДУКЦИИ
+            <h1 className="text-5xl md:text-7xl font-bold tracking-tighter leading-none mb-6">
+              ХИМИЯ
+              <br />
+              БУДУЩЕГО
             </h1>
             <p className="text-xl max-w-xl">
               Инновационные химические решения для промышленности. Точность формул, надёжность поставок, результат — в каждой молекуле.
